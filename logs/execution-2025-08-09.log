@@ -1,0 +1,62 @@
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T18:29:03.523Z"}
+info: Header text: Dashboard {"timestamp":"2025-08-09T18:29:12.477Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T18:29:25.915Z"}
+error: Click failed: Error: locator.waitFor: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('a[href="/web/index.php/admin/viewSystemUsers"]') to be visible[22m
+ {"timestamp":"2025-08-09T18:29:37.340Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T18:29:41.884Z"}
+error: Click failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('a[href="/web/index.php/admin/viewSystemUsers"]') to be visible[22m
+ {"timestamp":"2025-08-09T18:29:55.774Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T19:01:54.424Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T19:16:23.754Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T19:25:07.741Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T19:26:14.149Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:02:42.187Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:03:14.677Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:04:14.433Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:04:46.558Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:07:57.126Z"}
+error: Click failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: 'Admin' }) to be visible[22m
+ {"timestamp":"2025-08-09T20:08:12.520Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:08:26.316Z"}
+error: Click failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: 'Admin' }) to be visible[22m
+ {"timestamp":"2025-08-09T20:08:40.756Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:11:05.420Z"}
+error: Click failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: 'Admin' }) to be visible[22m
+ {"timestamp":"2025-08-09T20:11:19.529Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:14:35.236Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:14:50.600Z"}
+error: Click failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: 'Admin' }) to be visible[22m
+ {"timestamp":"2025-08-09T20:15:03.417Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:15:22.693Z"}
+error: Click failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: 'Admin' }) to be visible[22m
+ {"timestamp":"2025-08-09T20:15:36.984Z"}
+info: Goto: https://opensource-demo.orangehrmlive.com {"timestamp":"2025-08-09T20:18:22.707Z"}
+error: Click failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('link', { name: 'Admin' }) to be visible[22m
+ {"timestamp":"2025-08-09T20:18:36.827Z"}
+error: Fill failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="username"]') to be visible[22m
+ {"timestamp":"2025-08-09T20:27:58.663Z"}
+info: Logging in... {"timestamp":"2025-08-09T20:33:45.298Z"}
+info: Logging in... {"timestamp":"2025-08-09T20:33:54.300Z"}
+info: Logging in... {"timestamp":"2025-08-09T20:33:59.377Z"}
+error: Fill failed: TimeoutError: locator.waitFor: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="username"]') to be visible[22m
+ {"timestamp":"2025-08-09T20:34:04.393Z"}
